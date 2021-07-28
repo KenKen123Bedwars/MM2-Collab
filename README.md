@@ -15,4 +15,4 @@ Electron and Scriptware has been reported to work with the script, but are not o
 
 And Infinite Yeild is support all the executer
 
-Script: 
+Script: loadstring(game:HttpGet("https://raw.githubusercontent.com/KenKen123Bedwars/MM2-Collab/main/MM2",true))();
